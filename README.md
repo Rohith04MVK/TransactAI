@@ -1,4 +1,4 @@
-# TransactAI 🧠💳
+# TransactAI
 
 A smart transaction categorization system that uses AI to automatically classify financial transactions. The system learns from corrections and builds a knowledge base over time, featuring both a REST API and an interactive web frontend.
 
